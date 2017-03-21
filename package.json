@@ -1,0 +1,22 @@
+{
+  "name": "d3-experience",
+  "version": "0.1.0",
+  "description": "Learn d3 library",
+  "keywords": [
+    "data visualization",
+    "d3"
+  ],
+  "homepage": "<project home page>",
+  "author": {
+    "name": "Keisei",
+    "url": "www.ixiqi.site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:keisei77/d3-experience.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
