@@ -16,7 +16,9 @@
     "url": "git@github.com:keisei77/d3-experience.git"
   },
   "dependencies": {
+    "d3": "^4.7.3"
   },
   "devDependencies": {
+    "uglify-js": "^2.8.14"
   }
 }
